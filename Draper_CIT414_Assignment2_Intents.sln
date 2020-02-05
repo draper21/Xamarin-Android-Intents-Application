@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draper_CIT414_Assignment2_Intents", "Draper_CIT414_Assignment2_Intents.csproj", "{2C888CE3-A7F3-4D02-A626-79F9C8DAD3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C888CE3-A7F3-4D02-A626-79F9C8DAD3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C888CE3-A7F3-4D02-A626-79F9C8DAD3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C888CE3-A7F3-4D02-A626-79F9C8DAD3AB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2C888CE3-A7F3-4D02-A626-79F9C8DAD3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C888CE3-A7F3-4D02-A626-79F9C8DAD3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C888CE3-A7F3-4D02-A626-79F9C8DAD3AB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59359515-533C-484A-AAE0-4957E0AE92CA}
+	EndGlobalSection
+EndGlobal
