@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation  ="vertical"
+    android:layout_width ="match_parent"
+    android:layout_height="match_parent">
+    
+
+    <Button
+        android:text="Call 304 696 6418"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:id="@+id/callButton" />
+
+    <Button
+        android:text="email maurod@marshall.edu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:id="@+id/emailButton" />
+
+    <Button
+        android:text="Show Morrow Library"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:id="@+id/mapsButton" />
+
+</LinearLayout>
